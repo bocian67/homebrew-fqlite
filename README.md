@@ -1,17 +1,10 @@
 # Bocian67 Fqlite
 
-## How do I install these formulae?
+## How do I install fqlite cask?
 
-`brew install bocian67/fqlite/<formula>`
+`brew install --cask bocian67/fqlite/fqlite`
 
-Or `brew tap bocian67/fqlite` and then `brew install <formula>`.
-
-Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
-
-```ruby
-tap "bocian67/fqlite"
-brew "<formula>"
-```
+Or `brew tap bocian67/fqlite` and then `brew install --cask fqlite`.
 
 ## Documentation
 
